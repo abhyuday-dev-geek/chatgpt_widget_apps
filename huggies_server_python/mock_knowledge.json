@@ -1,0 +1,92 @@
+[
+  {
+    "id": "brand-comparison",
+    "title": "Huggies vs Pampers vs Luvs",
+    "question": "What’s the difference between Huggies, Pampers, and Luvs?",
+    "answer": "Huggies diapers focus on gentle, hypoallergenic materials and leak protection with features like Double Grip Strips and contoured waistbands. Pampers tend to be softer, fragrance-forward, and prioritize wetness channels and all-night dryness. Luvs is a budget-friendly option offering essential leak protection at a lower price point. Parents often choose Huggies for sensitive-skin babies and secure fit.",
+    "source_url": "https://www.huggies.com",
+    "tags": ["comparison", "huggies vs pampers", "huggies vs luvs", "brands"],
+    "type": "faq"
+  },
+  {
+    "id": "size-up-question",
+    "title": "Should I size up if my baby is between diaper sizes?",
+    "question": "My baby is on the cusp of two sizes; should I size up?",
+    "answer": "If your baby is between two diaper sizes, Huggies generally recommends sizing up. Signs that it’s time to size up include red marks around the legs, frequent leaks, difficulty fastening tabs, or if the current size no longer fully covers the baby’s bottom.",
+    "source_url": "https://www.huggies.com/en-us/diapers",
+    "tags": ["size", "diapers", "fit", "size up"],
+    "type": "faq"
+  },
+  {
+    "id": "hypoallergenic",
+    "title": "Are Huggies hypoallergenic? Do they contain parabens or latex?",
+    "question": "Are Huggies hypoallergenic? Do Huggies have latex or parabens?",
+    "answer": "Many Huggies products — especially the Skin Essentials and Special Delivery lines — are hypoallergenic. They are made without fragrance, parabens, natural rubber latex, or elemental chlorine bleach. These lines are designed for sensitive baby skin.",
+    "source_url": "https://www.huggies.com/en-us/diapers/skin-essentials",
+    "tags": ["hypoallergenic", "latex", "parabens", "ingredients"],
+    "type": "faq"
+  },
+  {
+    "id": "diaper-rash",
+    "title": "How can I prevent and treat diaper rash?",
+    "question": "How can I prevent or treat diaper rash?",
+    "answer": "To prevent diaper rash, keep the diaper area clean and dry, change diapers frequently, use gentle unscented wipes, and allow the skin to air out. To treat rash, use a thick zinc-oxide barrier cream, avoid rubbing the skin, and switch to hypoallergenic diapers such as Huggies Special Delivery if irritation persists.",
+    "source_url": "https://www.huggies.com/en-us/parenting-tips/baby/diapering",
+    "tags": ["rash", "diaper rash", "treatment", "prevention"],
+    "type": "faq"
+  },
+  {
+    "id": "recycle-wipes",
+    "title": "Can I recycle Huggies wipes packaging?",
+    "question": "Can I recycle Huggies wipes packaging?",
+    "answer": "Huggies wipes soft-pack film and plastic tubs are typically not accepted in curbside recycling due to mixed materials. Check your local recycling program or store drop-off programs that accept plastic film. Always empty and clean packaging before recycling.",
+    "source_url": "https://www.huggies.com/en-us/sustainability",
+    "tags": ["recycling", "wipes", "sustainability"],
+    "type": "faq"
+  },
+  {
+    "id": "coupons",
+    "title": "Where can I find Huggies coupons?",
+    "question": "Where can I find Huggies coupons or subscribe and save deals?",
+    "answer": "You can find official Huggies coupons, rewards, and promotions on the Huggies Offers page. Many retailers also provide Subscribe & Save discounts, especially online through Amazon, Walmart, or Target.",
+    "source_url": "https://www.huggies.com/en-us/offers",
+    "tags": ["coupons", "offers", "subscribe and save"],
+    "type": "faq"
+  },
+  {
+    "id": "where-to-buy",
+    "title": "Where to buy Huggies",
+    "question": "Where can I buy Huggies products?",
+    "answer": "Huggies products are available at major retailers such as Walmart, Target, Amazon, Costco, and most grocery/drug stores. Availability may vary by location, so use the store locator tool for local results.",
+    "source_url": "https://www.huggies.com/en-us",
+    "tags": ["map", "location", "stores", "buy"],
+    "type": "location"
+  },
+  {
+    "id": "baby-name-tool",
+    "title": "Unique Baby Name Suggestions",
+    "question": "Suggest unique baby names.",
+    "answer": "Here are some unique baby name ideas inspired by modern naming trends: Aria, Elowen, Kaia, Soren, Zavian, Lumi, Aerin, Mylo, Renley, and Zephyr. The official Huggies Baby Name Finder also helps explore names by meaning, origin, and popularity.",
+    "source_url": "https://www.huggies.com/en-us/resources/baby-names",
+    "tags": ["baby names", "name finder", "unique names"],
+    "type": "tool"
+  },
+  {
+    "id": "gender-predictor",
+    "title": "Baby Gender Prediction",
+    "question": "Can I predict my baby’s gender?",
+    "answer": "Fun prediction tools — including Huggies' Baby Gender Predictor — use folklore and due-date calculations to guess gender, but they are not medically accurate. For reliable results, consult ultrasound or a medical test.",
+    "source_url": "https://www.huggies.com/en-us/resources/gender-predictor",
+    "tags": ["gender predictor", "boy or girl"],
+    "type": "tool"
+  },
+  {
+    "id": "size-chart",
+    "title": "Diaper Size Chart",
+    "question": "What diaper size should my baby wear?",
+    "answer": "Huggies sizes generally follow weight ranges: Size N (up to 10 lbs), Size 1 (8–14 lbs), Size 2 (12–18 lbs), Size 3 (16–28 lbs), Size 4 (22–37 lbs), Size 5 (27+ lbs), Size 6 (35+ lbs). Always size up if the diaper is too tight or leaks frequently.",
+    "source_url": "https://www.huggies.com/en-us/diapers",
+    "tags": ["size", "weight", "chart", "diaper size"],
+    "type": "data"
+  }
+]
